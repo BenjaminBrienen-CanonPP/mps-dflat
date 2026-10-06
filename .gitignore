@@ -5,7 +5,8 @@
 .DS_Store
 .metadata
 .svn
-build/
+/build/*
+!build/languageBuild.xml
 /artifacts/
 /tmp/
 cell-screenshots/
